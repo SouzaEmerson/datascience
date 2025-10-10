@@ -41,6 +41,7 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [National Association of Realtors](https://www.nar.realtor/)   
         * [U.S. Department of the Treasury](https://home.treasury.gov/)   
         * [U.S. Congressional Budget Office](https://www.cbo.gov/)
+        * [FRED - Import Price Index](https://fred.stlouisfed.org/series/IREXPET)  
 
     * International Organizations
         * [International Monetary Fund](https://www.imf.org/en/Home)  
