@@ -42,6 +42,9 @@ from Italy, Europe, the US, and intergovernmental organizations such as WHO, WMO
         * [U.S. Department of the Treasury](https://home.treasury.gov/)   
         * [U.S. Congressional Budget Office](https://www.cbo.gov/)
         * [FRED - Import Price Index](https://fred.stlouisfed.org/series/IREXPET)  
+        * [FRED - Consumer Sentiment](https://fred.stlouisfed.org/series/UMCSENT)  
+        * [Wikipedia - List of largest daily changes in the S&P 500 Index](https://en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_S%26P_500_Index)  
+        * [Wikipedia - List of largest daily changes in the Dow Jones Industrial Average](https://en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_Dow_Jones_Industrial_Average)
 
     * International Organizations
         * [International Monetary Fund](https://www.imf.org/en/Home)  
